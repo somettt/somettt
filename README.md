@@ -1,5 +1,4 @@
 ## Hi there 👋
-202332707
 <!--
 **somettt/somettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
